@@ -1,2 +1,2 @@
-# redsum
+# redaksi sumbar
 Redaksisumbarnews
